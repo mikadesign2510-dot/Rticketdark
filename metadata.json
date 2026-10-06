@@ -1,0 +1,6 @@
+{
+  "name": "Artis - Art & Exhibition Ticketing",
+  "description": "سامانه اختصاصی تهیه بلیت نمایشگاه‌های هنرهای تجسمی، تئاترهای آوانگارد، گالری‌ها و کنسرت‌های سمفونیک با فونت و اعداد فارسی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
